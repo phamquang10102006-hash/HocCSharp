@@ -1,9 +1,6 @@
 ﻿using System;
-class Program
-{
-    static void Main()
-    {
-        Bai1.run();
-    }
-}
+
+//Bai1.run();
+Bai2.run();
+
 
