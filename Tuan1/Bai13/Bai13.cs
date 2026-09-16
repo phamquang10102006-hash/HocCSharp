@@ -21,6 +21,7 @@ public class Bai13
         }
         public void xuat()
         {
+            Console.WriteLine("\n--- THONG TIN SINH VIEN ---");
             Console.WriteLine($"Ma sinh vien: {MaSV} ");
             Console.WriteLine($"Ten sinh vien: {Ten} ");
             Console.WriteLine($"Dia chi sinh vien: {Diachi} ");
