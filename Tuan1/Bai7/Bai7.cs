@@ -5,6 +5,7 @@ public class Bai7
     static bool kiemtrant(int n)
     {
         if(n<2) return false;
+        if(n==2) return true;
         for(int i=2;i<=Math.Sqrt(n); i++)
         {
             if (n%i==0)

@@ -6,11 +6,11 @@
 //Bai4.run();
 //Bai5.run();
 //Bai6.run();
-//Bai7.run();
+Bai7.run();
 //Bai8.run();
 //Bai9.run();
 //Bai10.run();
 //Bai11.run();
 //Bai12.run();
 //Bai13.run();
-Bai14.run();
+//Bai14.run();
