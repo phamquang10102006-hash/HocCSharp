@@ -80,7 +80,7 @@ public class Bai17
         {
             Console.Write($"{adc} ");
         }
-        Console.Write("\nMang so le");
+        Console.Write("\nMang so le: ");
         foreach ( int adl in le)
         {
             Console.Write($"{adl} ");
