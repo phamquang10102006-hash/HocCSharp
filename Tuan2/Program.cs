@@ -1,7 +1,7 @@
 ﻿using System;
 
-Bai01.run();
-//Bai2.run();
+//Bai01.run();
+Bai02.run();
 //Bai3.run();
 //Bai4.run();
 //Bai5.run();
