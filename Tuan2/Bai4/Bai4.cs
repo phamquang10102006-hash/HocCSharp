@@ -39,7 +39,7 @@ public class Bai04
             get{return mau; }
             set
             {
-                if(mau==0)
+                if(value==0)
                 throw new ArgumentException("Mau so phai khac 0!");
 
                 mau=value;
