@@ -4,9 +4,9 @@
 //Bai02.run();
 //Bai03.run();
 //Bai04.run();
-Bai05.run();
+//Bai05.run();
 //Bai06.run();
-//Bai07.run();
+Bai07.run();
 //Bai08.run();
 //Bai09.run();
 //Bai010.run();
